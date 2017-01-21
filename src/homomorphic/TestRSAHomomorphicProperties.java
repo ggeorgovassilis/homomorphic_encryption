@@ -3,12 +3,12 @@ package homomorphic;
 import java.math.BigInteger;
 
 /**
- * This simple class demonstrates RSA's homomorphic trait:
+ * This simple class demonstrates RSA's homomorphic properties:
  * if a*b=c then RSA(a)*RSA(a)=RSA(c)
  * @author george georgovassilis
  *
  */
-public class TestRSAHomomorphicTrait {
+public class TestRSAHomomorphicProperties {
 
 	public static void main(String...args) throws Exception{
 		//instantiate public/private keys
