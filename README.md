@@ -4,4 +4,4 @@ Simple Java programme that demonstrates how RSA is [partially homomorphic](https
 
 A x B = C  ----> RSA(A) x RSA(B) = RSA(AxB)
 
-Read more in the accompanying [blog post](https://georgovassilis.blogspot.de/2017/01/rsa-is-partially-cryptographically.html)
+Read more in the accompanying [blog post](https://blog.georgovassilis.com/2017/01/rsa-is-partially-cryptographically.html)
